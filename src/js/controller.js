@@ -11,7 +11,7 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime';
 
-console.log(`Welcome to the apliation`),
+console.log(`Welcome to the apliation`);
 
 const controlRecipes = async function () {
   try {
